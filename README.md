@@ -6,7 +6,6 @@ Action Items:
 3.
 4.
 
-
 **Table of Contents**
 
 - [1.1. Cloud Computing Fundamentals](#11-cloud-computing-fundamentals)
